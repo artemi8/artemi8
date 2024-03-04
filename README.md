@@ -1,5 +1,5 @@
 # 💫 Hi 👋, I'm Sudarsaan
-🌱 I’m currently learning Spark, Dask, NLP<br><br>👯 I’m looking to collaborate on AI projects that involve autonomous systems<br><br>📝 I regularly write articles on https://dev.to/artemi8<br><br>💬 Ask me about Deep Learning, Image Processing, Model deployments, Building a server, Tensorflow, Pytorch<br><br>📫 How to reach me sudarsaan@gmail.com<br><br>📄 Know about my experiences from my [CV](https://drive.google.com/file/d/1s7xCx6PNYxrCl5Q_fDdSbWf4Fbu0Y0vI/view?usp=sharing)<br><br>
+🌱 I’m currently learning RL, Spark, Dask & NLP<br><br>👯 I’m looking to collaborate on AI projects that involve object detection & segmentation, designing RL agents for autonomous systems<br><br>📝 I regularly write articles on https://dev.to/artemi8<br><br>💬 Ask me about Deep Learning, Image Processing, Model deployments, Building a server, Tensorflow, Pytorch<br><br>📫 How to reach me sudarsaan@gmail.com<br><br>📄 Know about my experiences from my [CV](https://drive.google.com/file/d/1s7xCx6PNYxrCl5Q_fDdSbWf4Fbu0Y0vI/view?usp=sharing)<br><br>
 
 
 ## 🌐 Socials:
